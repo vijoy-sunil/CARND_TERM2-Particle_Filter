@@ -1,5 +1,5 @@
-[image1]: ./images/passed.png
-[image2]: ./images/running.png
+[image1]: ./images/passed.PNG
+[image2]: ./images/running.PNG
 
 
 ## Project: Kidnapped Vehicle Project
@@ -128,7 +128,7 @@ The things the grading code is looking for are:
 
 ![alt text][image2]
 
-Run the code until the simulator says:
+Running the code until the simulator says:
 
 ```
 Success! Your particle filter passed!
